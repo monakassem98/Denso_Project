@@ -461,6 +461,9 @@ a {
     .about-transport{
         text-align: center;
     }
+     .about-transport .container{
+        margin-left: 0;
+    }
     .about-transport .container h2::after{
         left: 50%;
         transform: translateX(-50%);
