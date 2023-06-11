@@ -275,6 +275,7 @@ a {
     }
     .landing .container .left-text p{
         text-align: center;
+        font-size: 12px;
     }
     .landing .container .left-text button{
         margin-top: 10px;
@@ -462,7 +463,11 @@ a {
         text-align: center;
     }
      .about-transport .container{
-        margin-left: 0;
+        margin-left: 15px;
+        padding-left: 0;
+    }
+    .about-transport .container p{
+        font-size: 14px;
     }
     .about-transport .container h2::after{
         left: 50%;
